@@ -16,7 +16,7 @@ try {
 }
 
 //valores para as variaveis do sistema
-$nome_sistema = 'Projetos2';
+$nome_sistema = 'StudiosMDHR';
 $email_sistema = 'admin@gmail.com';
 $telefone_sistema = '(11)98765-4321';
 $endereco_sistema = '';
